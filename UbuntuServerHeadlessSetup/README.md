@@ -8,4 +8,4 @@ After logging into Ubuntu Server as a sudo user:
 2. Apply changes (sudo netplan apply).
 3. Reboot the system.
 
-Tested on Ubuntu Server 20.04 and RaspberryPi 4.
+Tested on Ubuntu Server 20.04 and Raspberry Pi 4.
